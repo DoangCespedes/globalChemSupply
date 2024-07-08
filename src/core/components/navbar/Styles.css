@@ -1,0 +1,9 @@
+.call{
+    margin-left: auto; margin-right:2rem; color:#f5f5f5
+}
+
+@media only screen and (max-width: 810px){
+    .call{
+        margin-left: 1.8rem ; margin-right:auto; color:#f5f5f5
+    }
+}
