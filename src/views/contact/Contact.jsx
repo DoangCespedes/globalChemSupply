@@ -1,7 +1,13 @@
-import React from 'react'
+// import {Form} from '../../core/components/form/Form.jsx'
+
+import Form from "../../core/components/form/Form"
 
 export const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+      <h2>Contact</h2>
+
+      <Form/>
+    </>
   )
 }

@@ -1,9 +1,29 @@
-.call{
-    margin-left: auto; margin-right:2rem; color:#f5f5f5
-}
-
-@media only screen and (max-width: 810px){
-    .call{
-        margin-left: 1.8rem ; margin-right:auto; color:#f5f5f5
-    }
-}
+.navbar-nav .nav-link {
+    margin: 0 10px;
+  }
+  
+  .navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav .social-icons .nav-link {
+    padding: 0 5px;
+  }
+  
+  .navbar-brand img {
+    height: 40px;
+  }
+  
+  .navbar {
+    padding: 10px 20px;
+  }
+  
+  .dropdown-menu {
+    min-width: 200px;
+  }
+  
+  .dropdown-item {
+    font-size: 14px;
+  }
+  
